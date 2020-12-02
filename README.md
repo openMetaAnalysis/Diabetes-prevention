@@ -1,10 +1,10 @@
-Template: clinical question
+Diabetes prevention with behavioral counseling of patients with prediabetes
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: http://openmetaanalysis.github.io/Diabetes-prevention
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates previously published meta-analysis(es).(citation[s] below)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I<sup>2</sup> '[might not be important](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 26%. This review updates previously published meta-analysis(es).(citation[s] below)
 
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
@@ -37,15 +37,15 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+1. Hemmingsen B, Gimenez-Perez G, Mauricio D, Roqué I Figuls M, Metzendorf MI, Richter B. Diet, physical activity or both for prevention or delay of type 2 diabetes mellitus and its associated complications in people at increased risk of developing type 2 diabetes mellitus. Cochrane Database Syst Rev. 2017 Dec 4;12(12):CD003054. doi: 10.1002/14651858.CD003054.pub4. PMID: [29205264](http://pubmed.gov/29205264); PMCID: PMC6486271.
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Sampson M, Clark A, Bachmann M, Garner N, Irvine L, Howe A, Greaves C, Auckland S, Smith J, Turner J, Rea D, Rayman G, Dhatariya K, John WG, Barton G, Usher R, Ferns C, Pascale M; Norfolk Diabetes Prevention Study (NDPS) Group. Lifestyle Intervention With or Without Lay Volunteers to Prevent Type 2 Diabetes in People With Impaired Fasting Glucose and/or Nondiabetic Hyperglycemia: A Randomized Clinical Trial. JAMA Intern Med. 2020 Nov 2:e205938. doi: 10.1001/jamainternmed.2020.5938. Epub ahead of print. PMID: [33136119](http://pubmed.gov/33136119); PMCID: PMC7607494.
+2. Ackermann RT, Liss DT, Finch EA, Schmidt KK, Hays LM, Marrero DG, Saha C. A Randomized Comparative Effectiveness Trial for Preventing Type 2 Diabetes. Am J Public Health. 2015 Nov;105(11):2328-34. doi: 10.2105/AJPH.2015.302641. Epub 2015 Sep 17. PMID: [26378828](http://pubmed.gov/26378828); PMCID: PMC4605179.
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+See Hemmingsen et al.
 
 #### Trial(s) undergoing review
 None
