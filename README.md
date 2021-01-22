@@ -51,6 +51,7 @@ See Hemmingsen et al.
 None
 
 #### Trial(s) excluded - selected list of important trial(s)
+1. Rosas LG, Lv N, Xiao L, Lewis MA, Venditti EMJ, Zavella P, Azar K, Ma J. Effect of a Culturally Adapted Behavioral Intervention for Latino Adults on Weight Loss Over 2 Years: A Randomized Clinical Trial. JAMA Netw Open. 2020 Dec 1;3(12):e2027744. doi: 10.1001/jamanetworkopen.2020.27744. PMID: [33337491](http://pubmed.gov/33337491); PMCID: PMC7749441. *Did not measure incidence of diabetes as an outcome**
 
 #### Cited by
 This repository is cited by:
